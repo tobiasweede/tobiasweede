@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tobiasweede
-- 👀 I’m interested in many aspects of IT and sports :bike: :running:
-- :guitar: I love my guitar
+- - :guitar: I like to play my guitar and do sports
+- 👀 I’m interested in many aspects of IT
+
 
 <!---
 tobiasweede/tobiasweede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
