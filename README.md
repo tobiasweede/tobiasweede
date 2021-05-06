@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tobiasweede
-- - :guitar: I like to play my guitar and do sports
+- :guitar: I like to play my guitar and do sports :bike:
 - 👀 I’m interested in many aspects of IT
 
 
